@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41614'
     url: http://www.gutenberg.org/2009/agents/41614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44415#Robber-and-hero--the-story-of-the-raid-on-the-First-National-Bank-of1876.
 gutenberg_issued: '2013-12-12'
 gutenberg_type: Text
 identifiers:
